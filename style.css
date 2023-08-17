@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: lightblue;
+    text-align: center;
+}
+
+input {
+    font-size: 30px;
+    margin-top: 30px;
+    width: 20%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    background: none;
+}
+
+#result {
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 25px;
+    background: rgba(0, 0, 0, 0.1);
+    width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+img {
+    width: 30%;
+    margin: 15px 0;
+}
